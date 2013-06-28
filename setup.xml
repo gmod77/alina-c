@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<items>
+<name>alina constantinescu</name>
+<color_title>#0f0f0f</color_title>
+<color_body>#999999</color_body>
+<color_link>#ff4f11</color_link>
+<bg_color>#555555</bg_color>
+<color_opacity>70</color_opacity>
+<preload_info>please wait while loading content</preload_info>
+<labels>
+<section1>news</section1>
+<section2>advertising</section2>
+<section3>fine art</section3>
+<section4>photography</section4>
+<section5>bio | contact</section5>
+</labels>
+<background>5</background>
+<sections>
+<section1 title="news">
+<row1>Click on a link to view a project&apos;s live site. Go to the &quot;commercial&quot; section to view a project&apos;s flat artwork and details. Slide the scrollbar to browse more news. Click on Prev/Next links to view archived news (to be added).</row1>
+<row2></row2>
+<row3></row3>
+<row4></row4>
+<breadcrumb>News Home</breadcrumb>
+<caption>All about ideations, campaign launches, new gigs, design conferences...</caption>
+</section1>
+<section2 title="advertising">
+<row1>Click on a thumbnail or link to see a project in full view mode. Click on a heart icon to see the project&apos;s live site. Slide the scrollbar to browse more artwork.</row1>
+<row2></row2>
+<row3></row3>
+<row4></row4>
+<breadcrumb>Advertising Home</breadcrumb>
+<caption>I believe that a diverse client base leads to fresh, creative, big-idea development.</caption>
+</section2>
+<section3 title="fine art">
+<row1>Click on thumbnail/link for full view. Slide the scrollbar for more work. Click on Prev/ Next in full view for more work.</row1>
+<row2></row2>
+<row3></row3>
+<row4></row4>
+<breadcrumb>Fine Art Home</breadcrumb>
+<caption>I experiment with lithography, drawing, painting, illustration, etching...</caption>
+</section3>
+<section4 title="photography">
+<row1>Click on thumbnail/link for full view. Slide the scrollbar for more work. Click on Prev/Next in full view to navigate through large size work.</row1>
+<row2></row2>
+<row3></row3>
+<row4></row4>
+<breadcrumb>Photography Home</breadcrumb>
+<caption>I shoot mostly for work and sometimes for no reason whatsoever.</caption>
+</section4>
+<section5 title="bio | contact">
+<row1>Download my &lt;font color=&quot;#ff4f11&quot;&gt;&lt;a href=&quot;AlinaC_Resume.doc&quot;&gt;resume&lt;/a&gt;&lt;/font&gt; (.doc) for detailed information about my work. Email me at &lt;font color=&quot;#ff4f11&quot;&gt;&lt;a href=&quot;mailto:a_constantinescu@hotmail.com&quot;&gt;a_constantinescu@hotmail.com&lt;/a&gt;&lt;/font&gt; with a smashing job offer. I&apos;m based in New York City and would only relocate to Rome. Seriously.</row1>
+<row2></row2>
+<row3></row3>
+<row4></row4>
+<breadcrumb>Contact Home</breadcrumb>
+<caption>Brand principles, concept design, user experience, technology. I get it.</caption>
+</section5>
+</sections>
+</items>

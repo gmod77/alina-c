@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<artwork no="30" address="portfolio/fine_art/" thumb_prefix="thumb_">
+	<art id="1" row1="New Mexico #4" row2="Oil" second_row1="Project: New Mexico #4" second_row2="Medium: Oil" second_row3="Date: 2000"></art>
+	<art id="2" row1="New Mexico #3" row2="Oil" second_row1="Project: New Mexico #3" second_row2="Medium: Oil" second_row3="Date: 2000"></art>
+	<art id="3" row1="New Mexico #2" row2="Oil" second_row1="Project: New Mexico #2" second_row2="Medium: Oil" second_row3="Date: 2000"></art>
+	<art id="4" row1="New Mexico #1" row2="Oil" second_row1="Project: New Mexico #1" second_row2="Medium: Oil" second_row3="Date: 2000"></art>
+	<art id="5" row1="New York #5" row2="Pastels" second_row1="Project: New York #5" second_row2="Medium: Pastels" second_row3="Date: 1999"></art>
+	<art id="6" row1="New York #4" row2="Pastels" second_row1="Project: New York #4" second_row2="Medium: Pastels" second_row3="Date: 1999"></art>
+	<art id="7" row1="New York #3" row2="Pastels" second_row1="Project: New York #3" second_row2="Medium: Pastels" second_row3="Date: 1999"></art>
+	<art id="8" row1="New York #2" row2="Pastels" second_row1="Project: New York #2" second_row2="Medium: Pastels" second_row3="Date: 1999"></art>
+	<art id="9" row1="New York #1" row2="Pastels" second_row1="Project: New York #1" second_row2="Medium: Pastels" second_row3="Date: 1999"></art>
+	<art id="10" row1="Two Jacks #2" row2="Oil" second_row1="Project: Two Jacks #2" second_row2="Medium: Oil" second_row3="Date: 1997"></art>
+	<art id="11" row1="Two Jacks #1" row2="Oil" second_row1="Project: Two Jacks #1" second_row2="Medium: Oil" second_row3="Date: 1998"></art>
+	<art id="12" row1="Therapy #7" row2="Pastels" second_row1="Project: Therapy #7" second_row2="Medium: Pastels" second_row3="Date: 2002"></art>
+	<art id="13" row1="Therapy #6" row2="Pastels" second_row1="Project: Therapy #6" second_row2="Medium: Pastels" second_row3="Date: 2002"></art>
+	<art id="14" row1="Therapy #5" row2="Pastels" second_row1="Project: Therapy #5" second_row2="Medium: Pastels" second_row3="Date: 2002"></art>
+	<art id="15" row1="Therapy #4" row2="Pastels" second_row1="Project: Therapy #4" second_row2="Medium: Pastels" second_row3="Date: 2002"></art>
+	<art id="16" row1="Therapy #3" row2="Pastels" second_row1="Project: Therapy #3" second_row2="Medium: Pastels" second_row3="Date: 2002"></art>
+	<art id="17" row1="Therapy #2" row2="Pastels" second_row1="Project: Therapy #2" second_row2="Medium: Pastels" second_row3="Date: 2002"></art>
+	<art id="18" row1="Therapy #1" row2="Pastels" second_row1="Project: Therapy #1" second_row2="Medium: Pastels" second_row3="Date: 2002"></art>
+	<art id="19" row1="Three Friends" row2="Gouache" second_row1="Project: Three Friends" second_row2="Medium: Gouache" second_row3="Date: 2004"></art>
+	<art id="20" row1="Friends #5" row2="Gouache" second_row1="Project: Friends #5" second_row2="Medium: Gouache" second_row3="Date: 2003"></art>
+	<art id="21" row1="Friends #4" row2="Gouache" second_row1="Project: Friends #4" second_row2="Medium: Gouache" second_row3="Date: 2003"></art>
+	<art id="22" row1="Friends #3" row2="Gouache" second_row1="Project: Friends #3" second_row2="Medium: Gouache" second_row3="Date: 2003"></art>
+	<art id="23" row1="Friends #2" row2="Gouache" second_row1="Project: Friends #2" second_row2="Medium: Gouache" second_row3="Date: 2003"></art>
+	<art id="24" row1="Friends #1" row2="Gouache" second_row1="Project: Friends #1" second_row2="Medium: Gouache" second_row3="Date: 2003"></art>
+	<art id="25" row1="Grandpa Tiberius" row2="Ink Drawing" second_row1="Project: Grandpa Tiberius" second_row2="Medium: Ink Drawing" second_row3="Date: 2001"></art>
+	<art id="26" row1="The Coat" row2="Lithograph" second_row1="Project: The Coat" second_row2="Medium: Lithograph" second_row3="Date: 2001"></art>
+	<art id="27" row1="Pepper Grinder" row2="Lithograph" second_row1="Project: Pepper Grinder" second_row2="Medium: Lithograph" second_row3="Date: 2001"></art>
+	<art id="28" row1="Lemons" row2="Lithograph" second_row1="Project: Lemons" second_row2="Medium: Lithograph" second_row3="Date: 2001"></art>
+	<art id="29" row1="Walnut Grinder" row2="Lithograph" second_row1="Project: Walnut Grinder" second_row2="Medium: Lithograph" second_row3="Date: 2001"></art>
+	<art id="30" row1="Wounded" row2="Lithograph" second_row1="Project: Wounded" second_row2="Medium: Lithograph" second_row3="Date: 2001"></art>
+</artwork>
+
+
